@@ -1,0 +1,5 @@
+- Criar um Array que recebe numeros inteiros
+- Definir um numero inteiro que será o alvo a ser encontrado (alvo)
+- Dois elementos do array devem se somar, de forma a resultar no alvo
+(Exemplo, se o alvo for 9, no Array devemos identificar se há 5 e 4 para que sejam somados)
+- Não se pode usar o mesmo elemento 2 vezes
