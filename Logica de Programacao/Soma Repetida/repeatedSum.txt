@@ -1,0 +1,5 @@
+- Definir um numero inteiro
+- Seus digitos deverão ser somados (ex 49 somar 4+9)
+- Se o resultado der um numero com dois digitos, repetir o processo(
+4 + 9 = 13, somar 1+3)
+- Repetir até que a soma retorne apenas 1 digito.

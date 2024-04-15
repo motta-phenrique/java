@@ -1,0 +1,4 @@
+- Um valor y precisa ser inserido 
+- A lógica devera analisar se é um palindromo
+- Sera um palindromo se o valor inserido (y) puder ser lido da mesma maneira, da direita para esquerda ou da esquerda para a direita
+- Deverá analisar e retornar verdadeiro se for, senão, retornará falso.
